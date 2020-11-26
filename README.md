@@ -6,7 +6,7 @@
 
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LastAncientOne)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
 Please leave a ⭐️ if you like this template or fork the template to modify it for yourself!
 
