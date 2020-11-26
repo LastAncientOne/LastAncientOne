@@ -4,7 +4,7 @@
 
 [Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
-![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOneshow_icons=true&theme=tokyonight)
+![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
