@@ -1,8 +1,13 @@
+# Profile
+
 ### Hi there 👋
 
-[Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=radical)
+[Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=onedark)
 
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne)
+
+Please leave a ⭐️ if you like this template or fork the template to modify it for yourself!
+
 <!--
 **LastAncientOne/LastAncientOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
