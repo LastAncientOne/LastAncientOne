@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=onedark)
+[Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne)
 
