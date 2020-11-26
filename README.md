@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
 
-## Please leave a ⭐️ if you like this template or fork the template to modify it for yourself!
+## Please leave a ⭐️ if you like or using my repositories for yourself to modify!
 
 <!--
 **LastAncientOne/LastAncientOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
