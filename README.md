@@ -10,12 +10,12 @@
 
 ### I’m currently working on options and different stock strategies in python and excel. I will be updating and adding new files in SimpleStockAnalysisPython and adding more to "Stock Analysis for Quant".  Going to work on a new project.  
 
-### Skill:
-Python  
-R  
-Excel  
-Power BI  
-Matlab  
+## Skills:
+### Python  
+### R  
+### Excel  
+### Power BI  
+### Matlab  
 
 ## Please leave a ⭐️ if you like or using my repositories for yourself to modify!
 
