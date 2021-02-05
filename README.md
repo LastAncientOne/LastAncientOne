@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
-### I’m currently working on options and different stock strategies in python and excel. I will be updating and adding new files in SimpleStockAnalysisPython and adding more to "Stock Analysis for Quant". I am currerntly learning more about deep learning.  
+### I’m currently working on options and different stock strategies in python and excel. I will be updating and adding new files in ”SimpleStockAnalysisPython” and adding more to "Stock Analysis for Quant". I am currently learning more about deep learning.  
 
 ## Skills:
 ### Python  
