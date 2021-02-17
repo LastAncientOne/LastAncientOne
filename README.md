@@ -20,7 +20,7 @@
 ## Please leave a ⭐️ if you like or using my repositories for yourself to modify!
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.r-project.org/" target="_blank"> <img src="https://en.wikiversity.org/wiki/R_(programming_language)#/media/File:R_logo.svg" alt="python" width="40" height="40"/> 
+<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://en.wikiversity.org/wiki/R_(programming_language)#/media/File:R_logo.svg" alt="R" width="40" height="40"/> 
 <!--
 **LastAncientOne/LastAncientOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
