@@ -20,7 +20,7 @@
 ## Please leave a ⭐️ if you like or using my repositories for yourself to modify!
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" alt="R" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/> </a> </p>
+<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" alt="R" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013_logo.svg"  width="40" height="40"/> </a> </p>
 
 <!--
 **LastAncientOne/LastAncientOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
