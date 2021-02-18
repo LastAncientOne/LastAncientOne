@@ -13,9 +13,10 @@
 ## Skills:
 ### Python  
 ### R  
+### Matlab  
 ### Excel  
 ### Power BI  
-### Matlab  
+ 
 
 ## Please leave a ⭐️ if you like or using my repositories for yourself to modify!
 
