@@ -20,7 +20,7 @@
 
 ## Please leave a ⭐️ if you like or using my repositories for yourself to modify!
 
-<h3 align="left">System:</h3>
+<h3 align="left">System and Software:</h3>
 <p align="left"> </a> <a href="https://www.microsoft.com/en-us/windows/get-windows-10" target="_blank"> <img src="https://www.pngkit.com/png/detail/19-194579_upgrade-gobierno-open-business-logo-windows-10-home.png" alt="Windows 10" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-2008-present.jpg" alt="Linux" width="60" height="60"/> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
