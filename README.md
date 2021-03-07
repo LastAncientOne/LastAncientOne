@@ -1,4 +1,4 @@
-# Profile
+<img src="Profile.PNG">
 
 ### Hi there 👋
 
