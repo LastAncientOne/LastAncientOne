@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
-### I’m currently working on analyzing healthcare and first home buyer data in python, excel, and R.
+### I’m currently working on analyzing healthcare and first home buyer data in python, excel, and R. Studying and reviewing SQL.
 
 ## Skills:
 ### Python  
