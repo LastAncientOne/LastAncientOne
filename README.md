@@ -17,6 +17,7 @@
 ### Excel  
 ### VBA (Visual Basic for Applications)
 ### Power BI  
+### Tableau
  
 
 ## Please leave a ⭐️ if you like or using my repositories for yourself to modify!
