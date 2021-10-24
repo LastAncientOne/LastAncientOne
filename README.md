@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
-### I’m currently working on unstructure and structure data.  Learning to apply machine learning in trading and investment. Analyzing data in tableau, Power BI, python, excel, and R. Working on R. Working on machine learning and deep learning for investment and trading in python and writing.
+### I’m currently working on unstructure and structure data.  Learning to apply machine learning in trading and investment. Analyzing data in tableau, Power BI, python, excel, and R. Working on R. Working on candlestick pattern.
 
 ## Skills:
 ### Python  
