@@ -8,9 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
-### I’m currently working on unstructure and structure data.  Learning to apply machine learning in trading and investment. Analyzing data in tableau, Power BI, python, excel, and R.  Working on time series and foreacasting.
+### I’m currently updating the github projects.
 
-## Skills:
 ### Python  
 ### R  
 ### Matlab  
