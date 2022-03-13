@@ -10,7 +10,7 @@
 
 
 ### Connect with me:
-<p align="left"> </a> <a href="https://www.linkedin.com/in/tin-hang/" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Linkedin" >
+<p align="left"> </a> <a href="https://www.linkedin.com/in/tin-hang/" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Linkedin" width="40" height="40"/>
 
 
 ### I’m currently updating the github projects.
