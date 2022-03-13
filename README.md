@@ -8,7 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
-### Connect with me:
+[linkedin]: https://linkedin.com/in/tin-hang
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
