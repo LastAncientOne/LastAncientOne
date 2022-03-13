@@ -11,7 +11,8 @@
 
 ### Connect with me:
 <div align="center">
-![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/tin-hang)
+&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/tin-hang)
 
 
 
