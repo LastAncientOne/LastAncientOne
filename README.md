@@ -10,8 +10,9 @@
 
 
 ### Connect with me:
-&nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://linkedin.com/in/tin-hang)
+<div align="center">
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/tin-hang)
+
 
 
 ### I’m currently updating the github projects.
