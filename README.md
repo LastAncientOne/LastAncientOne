@@ -10,10 +10,7 @@
 
 
 ### Connect with me:
-<div align="center">
-&nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/tin-hang)
-
+<p align="left"> </a> <a href="https://www.linkedin.com/tin-hang" target="_blank"> <img src="hhttps://i.stack.imgur.com/gVE0j.png" alt="python" width="40" height="40"/>
 
 
 ### I’m currently updating the github projects.
