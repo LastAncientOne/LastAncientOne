@@ -8,6 +8,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/tin-hang#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tin-hang#gh-dark-mode-only)
+
 ### I’m currently updating the github projects.
 
 ### Python  
