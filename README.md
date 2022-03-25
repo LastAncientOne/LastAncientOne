@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+I'm Tin Hang.  I am into investment, finance, and data analysis.  
+
 [Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
