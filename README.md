@@ -1,8 +1,10 @@
 <img src="Profile.PNG">
 
-### Hi there 👋
+### Hi there. I'm Tin. 👋
 
-I'm Tin Hang.  I am into investment, finance, and data analysis.  
+:computer: :1234: I love math, programming and data science.  
+:dollar: :moneybag: :money_with_wings: I am into investment, finance, and quantitative research.  
+:seedling: I'm additcted to learning and growing everyday.  
 
 [Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
