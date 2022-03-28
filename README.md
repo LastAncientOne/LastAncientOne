@@ -2,7 +2,7 @@
 
 # Hi there. I'm Tin. 👋
 
-### :computer: :1234: I love math, programming, and data science.  
+### :computer: :1234: I love math, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: I am into investment, finance, and quantitative research.  
 ### :seedling: I'm additcted to learning and growing everyday.  
 
