@@ -19,7 +19,7 @@
 | :--- | :--- |
 | [Stock Analysis for Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) | |
 | [Deep Learning Maching Learning Stock](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock) | |
-| [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python] https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/|
+| [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python] https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/| ||
 
 ### Connect with me:
 <p align="left"> </a> <a href="https://www.linkedin.com/in/tin-hang/" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Linkedin" width="100" height="100"/> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="Gmail" width="120" height="100"/> </a> 
