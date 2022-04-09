@@ -19,8 +19,8 @@
 | :--- | :--- |
 | [Stock Analysis for Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) | |
 | [Deep Learning Maching Learning Stock](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock) | |
-| [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python](https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/) | [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)|
-| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |
+| [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python](https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/) | 
+| [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |
 
 
 ### Connect with me:
