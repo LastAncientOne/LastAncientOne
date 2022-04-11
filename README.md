@@ -12,17 +12,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
 
-### Blog:
-<p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
-
 | Repository | Blog post |
 | :--- | :--- |
 | [Stock Analysis for Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) | |
 | [Deep Learning Maching Learning Stock](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock) | |
 | [Mathematics for Maching Learning](https://github.com/LastAncientOne/Mathematics_for_Machine_Learning) | [Mathematics for Machine Learning and Deep Learning](https://quantanalysis.finance.blog/2022/03/28/mathematics-for-machine-learning-and-deep-learning/)|
 | [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python](https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/) | 
-| [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |
+| [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |  
 
+### Blog:  
+<p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
 
 ### Connect with me:
 <p align="left"> </a> <a href="https://www.linkedin.com/in/tin-hang/" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Linkedin" width="100" height="100"/> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="Gmail" width="120" height="100"/> </a> 
