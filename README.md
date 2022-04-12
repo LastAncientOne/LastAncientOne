@@ -19,6 +19,8 @@
 | [Mathematics for Maching Learning](https://github.com/LastAncientOne/Mathematics_for_Machine_Learning) | [Mathematics for Machine Learning and Deep Learning](https://quantanalysis.finance.blog/2022/03/28/mathematics-for-machine-learning-and-deep-learning/)|
 | [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python](https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/) | 
 | [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |  
+| [Data Science](https://github.com/LastAncientOne/Data-Science)| |   
+
 
 ### Blog:  
 <p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
