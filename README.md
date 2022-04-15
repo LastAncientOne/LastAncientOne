@@ -1,6 +1,4 @@
-<img src="Profile.PNG">    
-
-<span style="color: green"> Some green text </span>  
+<img src="Profile.PNG">      
 
 # Hi there. I'm Tin. 👋  
 
