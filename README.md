@@ -1,5 +1,7 @@
 <img src="Profile.PNG">
-<span style="color:blue">some *blue* text</span>  
+
+<span style="color:blue"> some *blue* text </span>  
+
 # Hi there. I'm Tin. 👋  
 
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
