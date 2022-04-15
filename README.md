@@ -1,5 +1,12 @@
-<img src="Profile.PNG">      
+<img src="Profile.PNG">     
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```  
 # Hi there. I'm Tin. 👋  
 
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
