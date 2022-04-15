@@ -1,16 +1,5 @@
-<img src="Profile.PNG">  
-<style>  
-H1{color:Blue !important;}  
-H2{color:DarkOrange !important;}  
-p{color:Black !important;}  
-</style>  
-
-# Color Test Document
-
-## Second Heading
-
-This is a test to see how the colors work.  
-
+<img src="Profile.PNG">    
+<span style="color: green"> Some green text </span>  
 # Hi there. I'm Tin. 👋  
 
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
