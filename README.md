@@ -1,6 +1,9 @@
 <img src="Profile.PNG">
 
 <span style="color:blue">some *This is Blue italic.* text</span>
+// colors
+s { color: green }
+em { color: blue }  
 
 # Hi there. I'm Tin. 👋  
 
