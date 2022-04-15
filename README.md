@@ -1,6 +1,6 @@
 <img src="Profile.PNG">
 
-# -![#1589F0] Hi there. I'm Tin.`#1589F0` 👋
+# -![#1589F0] (Hi there. I'm Tin.)`#1589F0` 👋
 
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
