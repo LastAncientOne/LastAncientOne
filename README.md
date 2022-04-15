@@ -1,10 +1,6 @@
 <img src="Profile.PNG">
 
-<style>
-H1{color:Blue !important;}
-</style>
-
-# Color Hi there. I'm Tin. 👋  
+# Hi there. I'm Tin. 👋  
 
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
