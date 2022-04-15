@@ -28,13 +28,13 @@
 ### Connect with me:
 <p align="left"> </a> <a href="https://www.linkedin.com/in/tin-hang/" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Linkedin" width="100" height="100"/> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="Gmail" width="120" height="100"/> </a> 
 
-### Programming Languages:     
+### <ins> Programming Languages:     
 #### Python  
 #### R  
 #### Matlab  
 #### VBA (Visual Basic for Applications)  
 
-### Software Applications:  
+### <ins> Software Applications:  
 #### Excel  
 #### Power BI  
 #### Tableau  
