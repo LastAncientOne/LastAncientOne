@@ -1,7 +1,7 @@
 <img src="Profile.PNG">
 ```html
-   // code for coloring
-```
+   // code for coloring blue
+```  
 # Hi there. I'm Tin. 👋  
 
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
