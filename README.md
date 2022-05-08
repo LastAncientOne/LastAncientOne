@@ -4,7 +4,7 @@
  
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
-### :seedling: I'm additcted to learning and growing everyday.  
+### :seedling: I'm addict to learning and growing everyday.  
 
 [Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
