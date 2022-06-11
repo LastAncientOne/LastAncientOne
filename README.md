@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=LastAncientOne&no-frame=true
+### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=LastAncientOne&theme=algolia)](https://github.com/LastAncientOne/github-profile-trophy)
 
 | Repository | Blog post |
