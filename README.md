@@ -32,7 +32,7 @@
 
 ### <ins> Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hung-nguyen-61266321b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="tin-hang" height="100" width="100" /></a>
  
 </p> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="Gmail" width="120" height="100"/> </a> 
 
