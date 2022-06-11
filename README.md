@@ -25,16 +25,11 @@
 ### <ins> Blog:  
 <p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
 
-<a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="tin-hang" height="100" width="100" /></a>
-</p>
-
-
-
 ### <ins> Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="80" width="80" /></a>
  
-</p> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="Gmail" width="120" height="100"/> </a> 
+</p> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Gmail" width="100" height="100"/> </a> 
 
 ### <ins> Programming Languages:     
 #### Python  
