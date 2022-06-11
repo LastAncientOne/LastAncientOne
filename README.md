@@ -25,7 +25,7 @@
 ### <ins> Blog:  
 <p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
 
-<a href="https://www.linkedin.com/in/tin-hang/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Linkedin" height="100" width="100" /></a>
+<a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="tin-hang" height="100" width="100" /></a>
 </p>
 
 
