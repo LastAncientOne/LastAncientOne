@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LastAncientOne" alt="LastAncientOne" /></a>
+
 | Repository | Blog post |
 | :--- | :--- |
 | [Stock Analysis for Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) | [Stock Analysis for Quant](https://quantanalysis.finance.blog/2022/05/03/stock-analysis-for-quant/)|
