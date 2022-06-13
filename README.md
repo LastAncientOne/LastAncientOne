@@ -7,10 +7,10 @@
 ### :seedling: I'm addict to learning and growing everyday.  
 
 ### 📉 📈 📊 GitHub Stats
-![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
+![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=github_dark)
 
 ### 💻 GitHub Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=github_dark)](https://github.com/LastAncientOne/github-readme-stats)
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=LastAncientOne&theme=algolia)](https://github.com/LastAncientOne/github-profile-trophy)
