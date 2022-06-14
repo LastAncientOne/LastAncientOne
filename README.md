@@ -1,5 +1,5 @@
 <img src="Profile.PNG">     
-
+# Welcome to my page!  
 # Hi there. I'm Tin. 👋  
  
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
