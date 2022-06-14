@@ -1,4 +1,5 @@
-<img src="Profile.PNG">        
+<img src="Profile.PNG">  
+
 # Welcome to my page!   
   
 # Hi there. I'm Tin. 👋   
