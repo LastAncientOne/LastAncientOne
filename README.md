@@ -14,8 +14,7 @@
 ### 💻 GitHub Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=github_dark)
 
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=LastAncientOne&theme=algolia)](https://github.com/LastAncientOne/github-profile-trophy)
+### 🏆 GitHub Profile Trophy  
 
 | Repository | Blog post |
 | :--- | :--- |
