@@ -5,7 +5,7 @@
 # Hi there. I'm Tin. 👋   
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone) To support me.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone) 
  
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
@@ -64,6 +64,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
 
+If you can contribute or you want to, feel free to do it. Buy me a coffee! ☕, I am really thankful and appreciate anything, even if it is a coffee or just a kind comment or leave a ⭐️ towards my work, because that helps me a lot. Whenever you contribute a donation, I will read your message and it will be shown on my main site. Be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you very much!    
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastancientone.lastancientone)
 
