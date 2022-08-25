@@ -3,6 +3,9 @@
 # Welcome to my page!   
   
 # Hi there. I'm Tin. 👋   
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone) To support me.
  
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
