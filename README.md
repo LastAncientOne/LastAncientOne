@@ -6,7 +6,7 @@
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)  
-# To support my work and projects.
+# If you are enjoying my work and would like to support me by "buying me a coffee" then I'd really appreciate it for supporting my work and projects.
  
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
