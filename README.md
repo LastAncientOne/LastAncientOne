@@ -5,7 +5,8 @@
 # Hi there. I'm Tin. 👋   
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)  
+[!["Buy Me A Coffee"](<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>)](https://www.buymeacoffee.com/lastancientone)  
+
 ## If you are enjoying my work and would like to support me by "buying me a coffee" then I'd really appreciate it for supporting my work and projects.
  
 ### :computer: :1234: :symbols: :robot: I love math, programming, data science, machine learning, and deep learning.  
