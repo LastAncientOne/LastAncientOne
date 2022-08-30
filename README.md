@@ -64,7 +64,7 @@
 
 ## Please leave a ⭐️ if you like or fork my codes or using my repositories for yourself to modify!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/lastancientone) 
+<a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>  
 
 If you can contribute or you want to, feel free to do it. Buy me a coffee! ☕, I am really thankful and appreciate anything, even if it is a coffee or just a kind comment or leave a ⭐️ towards my work, because that helps me a lot. Whenever you contribute a donation, I will read your message and it will be shown on my main site. Be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you very much!    
 
