@@ -63,7 +63,7 @@
 
 ## Please leave a ⭐️ if you like or fork my codes or using my repositories for yourself to modify!
 
-<img src="Buy_Me_A_Coffee.PNG">(https://www.buymeacoffee.com/lastancientone)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone) 
 
 If you can contribute or you want to, feel free to do it. Buy me a coffee! ☕, I am really thankful and appreciate anything, even if it is a coffee or just a kind comment or leave a ⭐️ towards my work, because that helps me a lot. Whenever you contribute a donation, I will read your message and it will be shown on my main site. Be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you very much!    
 
