@@ -30,6 +30,44 @@
 | [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |  
 | [Data Science](https://github.com/LastAncientOne/Data-Science)| Coming soon! |   
 
+</p>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/LastAncientOne/Stock_Analysis_For_Quant"><b>Stock Analysis For Quant</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars LastAncientOne/Stock_Analysis_For_Quant?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ LastAncientOne/Stock_Analysis_For_Quant?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ LastAncientOne/Stock_Analysis_For_Quant?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ LastAncientOne/Stock_Analysis_For_Quant?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href=" https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock "><b>Deep Learning & Machine Learning for Stock Analysis</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href=" https://github.com/LastAncientOne/SimpleStockAnalysisPython"><b>Simple Stock Analysis in Python Tutorial</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ LastAncientOne/SimpleStockAnalysisPython?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ LastAncientOne/SimpleStockAnalysisPython?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ LastAncientOne/SimpleStockAnalysisPython?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ LastAncientOne/SimpleStockAnalysisPython?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ### <ins> Blog:  
 <p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
