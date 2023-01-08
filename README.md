@@ -51,14 +51,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LastAncientOne/Stock_Analysis_For_Quant?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href=" https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock "><b>Deep Learning & Machine Learning for Stock Analysis</b></a></td>
+      <td><a href="https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock "><b>Deep Learning & Machine Learning for Stock Analysis</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LastAncientOne/Deep-Learning-Machine-Learning-Stock?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=" https://github.com/LastAncientOne/SimpleStockAnalysisPython"><b>Simple Stock Analysis in Python Tutorial</b></a></td>
+      <td><a href="https://github.com/LastAncientOne/SimpleStockAnalysisPython"><b>Simple Stock Analysis in Python Tutorial</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/LastAncientOne/SimpleStockAnalysisPython?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/LastAncientOne/SimpleStockAnalysisPython?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/LastAncientOne/SimpleStockAnalysisPython?style=flat-square&labelColor=343b41"/></td>
