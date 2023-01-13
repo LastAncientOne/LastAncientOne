@@ -13,10 +13,10 @@
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
 ### :seedling: I'm addict to learning and growing everyday.  
 
-### 📉 📈 📊 GitHub Stats
+### 📉 📈 📊 GitHub Stats  
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=github_dark)  
 
-### 💻 GitHub Languages
+### 💻 GitHub Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=github_dark)  
 
 ### 🏆 GitHub Profile Trophy  
