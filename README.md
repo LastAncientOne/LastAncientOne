@@ -17,7 +17,7 @@
 [![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOnea&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LastAncientOne/github-readme-stats#gh-dark-mode-only)
 
 ### 💻 GitHub Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=github_dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=github_dark)
 
 ### 🏆 GitHub Profile Trophy  
 
