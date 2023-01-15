@@ -17,7 +17,7 @@
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
 ### 💻 GitHub Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact)](https://github.com/LastAncientOne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)
 
 ### 🏆 GitHub Profile Trophy  
 
