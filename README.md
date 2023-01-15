@@ -14,7 +14,7 @@
 ### :seedling: I'm addict to learning and growing everyday.  
 
 ### 📉 📈 📊 GitHub Stats  
-![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=dark#gh-dark-mode-only)
+![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=radical)
 
 ### 💻 GitHub Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&show_icons=true&theme=github_dark)
