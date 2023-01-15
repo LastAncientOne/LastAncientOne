@@ -19,7 +19,7 @@
 ### 💻 GitHub Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)
 
-![Tin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LastAncientOne&theme=tokyonight)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LastAncientOne)](https://github.com/LastAncientOne/github-readme-stats)
 
 ### 🏆 GitHub Profile Trophy  
 
