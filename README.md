@@ -68,6 +68,15 @@
 </table>
 
 
+### Investment Projects
+
+| Repository | 
+| :--- | 
+| [Covid-19 Vaccines Investment](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment) | 
+| [Beverages Long Term Investment](https://github.com/LastAncientOne/Beverages-Long-Term-Investment) | 
+| [Electrics Cars Investment](https://github.com/LastAncientOne/Electric_Cars_Investment) | 
+| [Housing & Home Building Investment](https://github.com/LastAncientOne/Housing_Home_Building_Investment) | 
+
 
 ### <ins> Blog:  
 <p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
