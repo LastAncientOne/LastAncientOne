@@ -70,7 +70,7 @@
 
 ### Investment Projects
 
-| Repository | 
+| Repository Links|  
 | :--- | 
 | [Covid-19 Vaccines Investment](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment) | 
 | [Beverages Long Term Investment](https://github.com/LastAncientOne/Beverages-Long-Term-Investment) | 
