@@ -13,6 +13,11 @@
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
 ### :seedling: I'm addict to learning and growing everyday.  
 
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=LastAncientOne&theme=tokyonight&column=8no-frame=true"/>
+</a>
+
 ### 📉 📈 📊 GitHub Stats  
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
 
