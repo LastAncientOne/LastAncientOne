@@ -18,7 +18,9 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=LastAncientOne&theme=tokyonight&column=8no-frame=true"/>
 </a>
 
-![Sean Wei's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LastAncientOne&show_icons=true&count_private=true&theme=tokyonight)
+---
+
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LastAncientOne&show_icons=true&count_private=true&theme=tokyonight)
 
 ### 📉 📈 📊 GitHub Stats  
 ![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
