@@ -1,0 +1,20 @@
+name: "Dependabot Automerge - Action"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Merge_pull_request:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Approve pull request by GitHub-Actions bot
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.pulls.createReview({
+              event: "APPROVE"
+            });
