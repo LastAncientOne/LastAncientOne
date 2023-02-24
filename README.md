@@ -9,7 +9,7 @@
 
 ## If you are enjoying my work and would like to support me by "buying me a coffee" then I'd really appreciate it for supporting my work and projects.
  
-### :computer: :1234: :symbols: :robot: I love math, statistics, data, programming, data science, machine learning, and deep learning.  
+### :computer: :1234: :symbols: :robot: I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
 ### :seedling: I'm addict to learning and growing everyday.  
 
@@ -139,4 +139,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
