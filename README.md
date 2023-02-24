@@ -1,13 +1,5 @@
 <img src="Profile.PNG">  
 
-<h1 align="left">Hi there, I'm Tin <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
-
-
-<p align="left">
-    <img src="https://github.com/lastancientone/lastancientone/blob/main/gitartwork.svg" />
-</p>  
-
-
 # Welcome to my page!   
   
 # Hi there. I'm Tin. 👋   
