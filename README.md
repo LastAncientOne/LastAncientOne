@@ -79,7 +79,7 @@
 
 ### Investment Projects
 
-| Repository Links| ⭐ Stars | 💻 Fork |
+| Repository Links| ⭐ Stars | 💻 Forks |
 | :--- | :--- | :--- |
 | [Covid-19 Vaccines Investment](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment) | <img alt="Stars" src="https://img.shields.io/github/stars/LastAncientOne/Covid-19_Vaccines_Investment?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/LastAncientOne/Covid-19_Vaccines_Investment?style=flat-square&labelColor=343b41"/> |
 | [Beverages Long Term Investment](https://github.com/LastAncientOne/Beverages_Long_Term_Investment) | <img alt="Stars" src="https://img.shields.io/github/stars/LastAncientOne/Beverages_Long_Term_Investment?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/LastAncientOne/Beverages_Long_Term_Investment?style=flat-square&labelColor=343b41"/> |
