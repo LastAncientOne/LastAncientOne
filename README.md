@@ -102,7 +102,7 @@
 #### Matlab  
 #### VBA (Visual Basic for Applications)  
 
-### <ins> Software Applications:  
+### <ins> Software Applications and Tools:  
 #### Excel  
 #### Power BI  
 #### Tableau  
