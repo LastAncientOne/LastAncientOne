@@ -125,7 +125,7 @@
 If you can contribute or you want to, feel free to do it. Buy me a coffee! ☕, I am really thankful and appreciate anything, even if it is a coffee or just a kind comment or leave a ⭐️ towards my work, because that helps me a lot. Whenever you contribute a donation, I will read your message and it will be shown on my main site. Be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you very much!    
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastancientone.lastancientone)
-
+![](https://komarev.com/ghpvc/?lastancientone=your-github-username&color=green)
 <!--
 **LastAncientOne/LastAncientOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
