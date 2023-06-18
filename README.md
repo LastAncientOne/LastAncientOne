@@ -7,7 +7,7 @@
 
 <a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>  
 
-## If you are enjoying my work and would like to support me by "buying me a coffee" then I'd really appreciate it for supporting my work and projects.
+## If you are enjoying my work and would like to support me by "buying me a coffee," I would greatly appreciate your support for my work and projects.  
  
 ### :computer: :1234: :symbols: :robot: I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
