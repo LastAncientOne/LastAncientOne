@@ -33,7 +33,7 @@
 | Repository | Blog post |
 | :--- | :--- |
 | [Stock Analysis for Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) | [Stock Analysis for Quant](https://quantanalysis.finance.blog/2022/05/03/stock-analysis-for-quant/)|
-| [Deep Learning Maching Learning Stock](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock) | [Deep Learning Maching Learning Stock](https://quantanalysis.finance.blog/2023/08/10/demystifying-deep-learning-and-machine-learning-empowering-stock-market-analysis/) |
+| [Deep Learning Maching Learning Stock](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock) | [Deep Learning Maching Learning Stock](https://quantanalysis.finance.blog/2023/08/10/demystifying-deep-learning-and-machine-learning-empowering-stock-market-analysis/)|
 | [Mathematics for Maching Learning](https://github.com/LastAncientOne/Mathematics_for_Machine_Learning) | [Mathematics for Machine Learning and Deep Learning](https://quantanalysis.finance.blog/2022/03/28/mathematics-for-machine-learning-and-deep-learning/)|
 | [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python](https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/) | 
 | [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |  
