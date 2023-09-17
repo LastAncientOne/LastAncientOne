@@ -5,7 +5,7 @@
 # Hi there. I'm Tin. 👋   
 <details>
 <summary>📫 <b> Contact </b> </summary>  
- - [LinkedIn](https://www.linkedin.com/in/tin-hang)  
+<a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="70" width="70"/></a>  
  - [Blog](https://quantanalysis.finance.blog/)  
 </details>
 
