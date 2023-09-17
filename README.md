@@ -3,6 +3,7 @@
 # Welcome to my page!   
   
 # Hi there. I'm Tin. 👋   
+<details>
 <summary>📫 <b> Contact </b> </summary>
  - [LinkedIn](https://www.linkedin.com/in/tin-hang)
  - [Blog](https://quantanalysis.finance.blog/))
