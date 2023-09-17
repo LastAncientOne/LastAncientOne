@@ -3,7 +3,10 @@
 # Welcome to my page!   
   
 # Hi there. I'm Tin. 👋   
-
+<summary>📫 <b> Contact </b> </summary>
+ - [LinkedIn](https://www.linkedin.com/in/tin-hang)
+ - [Blog](https://quantanalysis.finance.blog/))
+</details>
 
 <a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>  
 
