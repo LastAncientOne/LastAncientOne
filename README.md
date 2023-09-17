@@ -5,8 +5,8 @@
 # Hi there. I'm Tin. 👋   
 <details>
 <summary>📫 <b> Contact </b> </summary>  
-<a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="40" width="40"/></a>   
-<p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
+<a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/></a>   
+<p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="50" height="50"/> </a>  
 </details>
 
 <a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>  
