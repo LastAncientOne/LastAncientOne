@@ -4,10 +4,7 @@
   
 # Hi there. I'm Tin. 👋   
 <details>
-<span style="color:green;font-weight:700;font-size:20px"> 
-markdown color font styles
-</span>	
-<summary> 📫 <b> Contact </b> </summary>  
+<summary> <span style="color:green;font-weight:700;font-size:20px">  📫 <b> Contact </b> </span> </summary>  
 <a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/></a>   
 <p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="50" height="50"/> </a>  
 </details>
