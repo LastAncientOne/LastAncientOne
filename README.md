@@ -4,7 +4,7 @@
   
 # Hi there. I'm Tin. 👋   
 
-<span style="color:green;font-weight:700;font-size:30px"> 
+<span style="color:Blue;font-weight:700;font-size:30"> 
 <details>
 <summary> 📫 <b> Contact </b> </summary>  
 <a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/></a>   
