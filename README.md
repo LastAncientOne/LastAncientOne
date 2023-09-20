@@ -39,6 +39,8 @@
 
 ### 🏆 GitHub Profile Trophy  
 
+<details>
+<summary> 📫 <h2> <b> Contact </b> </summary>  
 | Repository | Blog post |
 | :--- | :--- |
 | [Stock Analysis for Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) | [Stock Analysis for Quant](https://quantanalysis.finance.blog/2022/05/03/stock-analysis-for-quant/)|
@@ -47,7 +49,8 @@
 | [Simple Stock Analysis in Python](https://github.com/LastAncientOne/SimpleStockAnalysisPython) | [Simple Stock Tutorial in Python](https://quantanalysis.finance.blog/2019/05/09/simple-stock-tutorial-in-python/) | 
 | [Simple Stock Analysis in R](https://github.com/LastAncientOne/SimpleStockAnalysisR)| [Simple Stock Tutorial in R](https://quantanalysis.finance.blog/2022/03/27/simple-stock-analysis-in-r/) |  
 | [Data Science](https://github.com/LastAncientOne/Data-Science)| [Data Analyst](https://quantanalysis.finance.blog/2023/06/24/data-analyst/)|   
-
+<details>
+	
 </p>
 <h3>Open source projects</h3>
 <table>
