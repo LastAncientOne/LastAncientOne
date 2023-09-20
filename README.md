@@ -40,7 +40,7 @@
 ### 🏆 GitHub Profile Trophy  
 
 <details>
-<summary> 📫 <h2> <b> Contact </b> </summary>  
+<summary> 📫 <h2> <b> Projects </b> </summary>  
 | Repository | Blog post |
 | :--- | :--- |
 | [Stock Analysis for Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) | [Stock Analysis for Quant](https://quantanalysis.finance.blog/2022/05/03/stock-analysis-for-quant/)|
