@@ -23,8 +23,6 @@
 ### :seedling: I'm addict to learning and growing everyday.  
 
 ### 🏆 GitHub Profile Trophy:
-
-
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LastAncientOne&show_icons=true&count_private=true&theme=tokyonight)
 
 ### 📉 📈 📊 GitHub Stats  
