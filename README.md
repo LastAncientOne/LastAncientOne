@@ -32,10 +32,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)  
 
 ### Github Top Languages by Repo    
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LastAncientOne&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LastAncientOne&theme=tokyonight)     
 
 ### Github Top Languages by Commit  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LastAncientOne&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LastAncientOne&theme=tokyonight)  
 
 ### GitHub Commit  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LastAncientOne&theme=tokyonight&utcOffset=8) 
