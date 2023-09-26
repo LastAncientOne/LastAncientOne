@@ -28,10 +28,13 @@
 ### 📉 📈 📊 GitHub Stats  
 ![Tin's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LastAncientOne&theme=tokyonight)
 
-### 💻 GitHub Languages  
+### 💻 GitHub Languages by Repo  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)  
 
-### GitHub Commits
+### Github Top Languages by Commit  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LastAncientOne&theme=midnight_purple) 
+
+### GitHub Commit  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LastAncientOne&theme=tokyonight&utcOffset=8) 
 
 | Repository | Blog post |
