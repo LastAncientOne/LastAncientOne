@@ -23,9 +23,7 @@
 ### :seedling: I'm addict to learning and growing everyday.  
 
 ### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=LastAncientOne&theme=tokyonight&column=8no-frame=true"/>
-</a>
+
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LastAncientOne&show_icons=true&count_private=true&theme=tokyonight)
 
