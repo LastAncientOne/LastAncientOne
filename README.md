@@ -23,15 +23,16 @@
 ### :seedling: I'm addict to learning and growing everyday.  
 
 ### 🏆 GitHub Profile Trophy:
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LastAncientOne&show_icons=true&count_private=true&theme=tokyonight)
+![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LastAncientOne&theme=tokyonight)
 
 ### 📉 📈 📊 GitHub Stats  
-![Tin's github stats](https://github-readme-stats.vercel.app/api?username=LastAncientOne&show_icons=true&theme=tokyonight)
+![Tin's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LastAncientOne&theme=tokyonight)
 
 ### 💻 GitHub Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastAncientOne&layout=compact&theme=tokyonight)](https://github.com/LastAncientOne/github-readme-stats)  
 
-### 🏆 GitHub Profile Trophy  
+### GitHub Commits
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LastAncientOne&theme=tokyonight&utcOffset=8) 
 
 | Repository | Blog post |
 | :--- | :--- |
