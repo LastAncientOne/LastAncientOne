@@ -100,7 +100,7 @@
 
 
 ### <ins> Blog:  
-<p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="100" height="100"/> </a>  
+<p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://cdn4.vectorstock.com/i/1000x1000/52/38/blog-icon-vector-20455238.jpg" alt="Blog" width="100" height="100"/> </a>  
 
 ### <ins> Connect with me:
 <p align="left">
