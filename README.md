@@ -8,7 +8,6 @@
 <details>
 <summary> 📫 <h2> <b> Contact </b> </summary>  
 </p> </a> <a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/></a>   
-</p> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.kindpng.com/picc/m/197-1971599_blog-blog-icon-png-blue-transparent-png.png" alt="Blog" width="50" height="50"/> </a>  
 </p> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Gmail" width="50" height="50"/> </a> 
 </details>
 
