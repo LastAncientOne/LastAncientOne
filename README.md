@@ -99,8 +99,6 @@
 | [AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) | <img alt="Stars" src="https://img.shields.io/github/stars/LastAncientOne/AMD-vs-NVDA ?style=flat-square&labelColor=343b41"/> |<img alt="Forks" src="https://img.shields.io/github/forks/LastAncientOne/AMD-vs-NVDA?style=flat-square&labelColor=343b41"/> |
 
 
-### <ins> Blog:  
-<p align="left"> </a> <a href="https://quantanalysis.finance.blog/" target="_blank"> <img src="https://www.teachertoolkit.co.uk/wp-content/uploads/2016/08/shutterstock_93782158.jpg" alt="Blog" width="100" height="100"/> </a>  
 
 ### <ins> Connect with me:
 <p align="left">
