@@ -132,7 +132,15 @@
 
 <a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>  
 
-If you can contribute or would like to, feel free to do so. You can buy me a coffee! ☕ I am truly grateful and appreciate anything, whether it's a coffee, a kind comment, or even leaving a ⭐️ on my work, as it helps me a lot. Whenever you make a donation, I will read your message, and it will be displayed on my main site. Please be cautious and donate only if it is within your means, as there is no refund system. And remember, donating is entirely optional. Thank you very much!  
+🌟 Your Support Matters! 🌟
+
+If you find my work valuable and wish to contribute, your support means the world to me! You can help fuel my creativity and dedication with a simple gesture – buying me a coffee! ☕
+
+Your generosity goes beyond just a beverage; it's a vote of confidence in my efforts. Whether it's a coffee, a kind comment, or a ⭐️ on my work, every bit of support fuels my passion and helps me keep going.
+
+When you choose to donate, your message will be cherished and prominently displayed on my main site. However, please only contribute if it's comfortable for you, as there's no refund system in place. Your donation is entirely optional and deeply appreciated.
+
+Thank you immensely for considering supporting my work. Together, we can keep the creativity flowing!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastancientone.lastancientone)
 ![](https://komarev.com/ghpvc/?lastancientone=your-github-username&color=green)
