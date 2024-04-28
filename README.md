@@ -1,8 +1,7 @@
 <img src="Profile.PNG">  
 
-# Welcome to my page!   
-  
 # Hi there. I'm Tin. 👋   
+# Welcome to my page!     
 
 
 <details>
