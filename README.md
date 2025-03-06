@@ -134,13 +134,15 @@
 
 🌟 Your Support Matters! 🌟
 
-If you find my work valuable and wish to contribute, your support means the world to me! You can help fuel my creativity and dedication with a simple gesture – buying me a coffee! ☕
+Support My Work & Keep the Creativity Flowing! ☕
 
-Your generosity goes beyond just a beverage; it's a vote of confidence in my efforts. Whether it's a coffee, a kind comment, or a ⭐️ on my work, every bit of support fuels my passion and helps me keep going.
+If you find value in my work and want to help me continue creating, your support would mean the world to me! A simple gesture—like buying me a coffee—fuels my passion and dedication.
 
-When you choose to donate, your message will be cherished and prominently displayed on my main site. However, please only contribute if it's comfortable for you, as there's no refund system in place. Your donation is entirely optional and deeply appreciated.
+But your generosity goes beyond just a cup of coffee. It’s a powerful vote of confidence in my efforts. Whether it’s a donation, a kind comment, or a ⭐️ on my work, every bit of support keeps me inspired and motivated to push forward.
 
-Thank you immensely for considering supporting my work. Together, we can keep the creativity flowing!
+As a token of appreciation, your message will be proudly displayed on my main site. However, please only contribute if it’s comfortable for you, as donations are non-refundable.
+
+Thank you so much for considering supporting my work. Together, we can keep creativity alive! 🎨✨
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastancientone.lastancientone)
 ![](https://komarev.com/ghpvc/?lastancientone=your-github-username&color=green)
