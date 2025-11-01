@@ -7,12 +7,12 @@
 <details>
 <summary> 📫 <h2> <b> Contact </b> </summary>  
 </p> </a> <a href="https://www.linkedin.com/in/tin-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/></a>   
-</p> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://miro.medium.com/1*lFGfRfSp_d-UCeUfRaB0yg.jpeg" alt="Gmail" width="50" height="50"/> </a> 
+</p> </a> <a href="mailto:lastancientone@gmail.com" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2020-present.jpg" alt="Gmail" width="50" height="50"/> </a> 
 </details>
 
 
 
-<a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>  
+<a href="https://www.buymeacoffee.com/lastancientone"><img src="https://miro.medium.com/1*lFGfRfSp_d-UCeUfRaB0yg.jpeg" /></a>  
 
 ## If you're finding value in my work and would like to show your appreciation, consider supporting me by 'buying me a coffee.' Your contribution goes a long way in fueling my passion for creating and maintaining quality projects. I truly appreciate any support you can offer. Thank you!  
  
