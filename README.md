@@ -11,13 +11,23 @@
 </details>
 
 
-
-<a href="https://www.buymeacoffee.com/lastancientone"><img src="https://logowik.com/content/uploads/images/buy-me-a-coffee6984.jpg" /></a>  
+<a href="https://www.buymeacoffee.com/lastancientone">
+  <img src="https://logowik.com/content/uploads/images/buy-me-a-coffee6984.jpg" width="150" alt="Buy Me a Coffee" />
+</a>
 
 ## If you're finding value in my work and would like to show your appreciation, consider supporting me by 'buying me a coffee.' Your contribution goes a long way in fueling my passion for creating and maintaining quality projects. I truly appreciate any support you can offer. Thank you!  
 
 # Discover beautifully crafted custom woodwork at Nisa’s Workshop
- </p> </a> <a href="mailto:https://nisasworkshop.com/" target="_blank"> <img src="https://nisasworkshop.com/cdn/shop/files/Logo_Background_removed.png?v=1761063540&width=300" alt="Gmail" width="50" height="50"/> </a> 
+</p> 
+</a> 
+<a href="mailto:https://nisasworkshop.com/" target="_blank"> 
+  <img 
+    src="https://nisasworkshop.com/cdn/shop/files/Logo_Background_removed.png?v=1761063540&width=300" 
+    alt="Nisa's Workshop Logo" 
+    width="150" 
+    height="150"
+  /> 
+</a>
  
 ### :computer: :1234: :symbols: :robot: I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  
 ### :dollar: :moneybag: :money_with_wings: :chart_with_upwards_trend: :chart_with_downwards_trend: I am into investment, finance, and quantitative research.  
