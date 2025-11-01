@@ -20,7 +20,7 @@
 # Discover beautifully crafted custom woodwork at Nisa’s Workshop
 </p> 
 </a> 
-<a href="mailto:https://nisasworkshop.com/" target="_blank"> 
+<a href="https://nisasworkshop.com/" target="_blank"> 
   <img 
     src="https://nisasworkshop.com/cdn/shop/files/Logo_Background_removed.png?v=1761063540&width=300" 
     alt="Nisa's Workshop Logo" 
