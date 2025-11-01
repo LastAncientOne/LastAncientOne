@@ -24,8 +24,8 @@
   <img 
     src="https://nisasworkshop.com/cdn/shop/files/Logo_Background_removed.png?v=1761063540&width=300" 
     alt="Nisa's Workshop Logo" 
-    width="150" 
-    height="150"
+    width="300" 
+    height="300"
   /> 
 </a>
  
